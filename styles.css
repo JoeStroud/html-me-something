@@ -2,4 +2,31 @@
 h1{
   color:rgb(62, 204, 62);
   text-align: center;
+  margin-bottom: 20px;
+  margin-top: 100px;
+
+}
+
+p{
+  color:rgb(62, 204, 62);
+  text-align: center;
+}
+
+body{
+  background-color: black;
+}
+
+div{
+  text-align: center;
+  
+}
+
+article{
+  
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+footer{
+  margin-top: 150px;
 }
